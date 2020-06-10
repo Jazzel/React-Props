@@ -15,7 +15,7 @@ export default function MediaCard({ title, body, imageURL }) {
               <p class="text-dark text-left">{body}</p>
             </div>
             <div class="col-4">
-              <img src={imageURL} alt="image" />
+              <img src={imageURL} alt="react" />
             </div>
           </div>
         </div>
